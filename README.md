@@ -2,7 +2,7 @@
 > Status do projeto: Finalizado.
  
 Pequeno projeto para iniciar e praticar logica de programação no c#.
-Criação de um app simpçes de console para armazenar e avaliar bandas.
+Criação de um app simples de console para armazenar e avaliar bandas.
 
 ## O que aprendi ao realizar esse projeto:
 - Instalação do ambiente de desenvolvimento
